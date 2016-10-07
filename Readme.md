@@ -14,7 +14,7 @@ This was originally done as a part of my BSc Comp Sci final year project back in
 
 General notes on the code:
 The original Java implementation (of which this is a fairly straight forward port, just here and there a couple of things were changed
-to improve readability) was written 12 years ago - it's amazing look at your own code that's that old. 
+to improve readability) was written 12 years ago - it's amazing to look at your own code that's that old. 
 
 The code base is in need of some good refactoring, currently the main compression algorithm is located in the Orcalc class, while the 
 decompression algorithm is located in the OracleDecoder - these implementations should be refactored to make their intent clearer. 
